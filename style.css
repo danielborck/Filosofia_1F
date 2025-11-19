@@ -20,20 +20,18 @@ padding-top: 80px;
 display: flex;
 justify-content: center;
 }
-
 .chamada-texto{
 margin-right: 5%;
 }
-
 h1{
 font-size: 40px;
 }
 p{
-font-size: 20px:
+font-size: 20px;
 }
 .categoria-videos{
-display; flex;
-overflow-x: auto;
+display; flex:
+overflow-x; auto:
 gap: 10px;
 }
 .categoria{
@@ -49,11 +47,11 @@ height: 200px;
 
 .categoria-videos img:hover{
 opacity: 1.0;
-border: 1px solid pink;
+border: 1px solid rgb(210, 203, 204);
 }
 
 .categoria h2{
-color: yellow;
+color:white;
 }
 
 
